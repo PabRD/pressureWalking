@@ -7,3 +7,4 @@ ______________________________
 
 
 
+![alt text](https://github.com/PabRD/pressureWalking/blob/main/gitHub_Exemple1.png)
